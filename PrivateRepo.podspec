@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PrivateRepo"
-  s.version      = "0.0.2"
-  s.summary      = "version 2 This is a test repo for private usage only ! babalkbalkanbdlnflsdnfldsjfl bablakbsdlbfal fddfbaslbdfldasbf lasf "
+  s.version      = "0.0.3"
+  s.summary      = "version 3 This is a test repo for private usage only ! babalkbalkanbdlnflsdnfldsjfl bablakbsdlbfal fddfbaslbdfldasbf lasf "
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
